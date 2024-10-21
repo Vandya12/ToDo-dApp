@@ -1,0 +1,5 @@
+C:\Users\HP\todo-app\test\obj\Debug\net6.0\ToDoApp.Tests.csproj.AssemblyReference.cache
+C:\Users\HP\todo-app\test\obj\Debug\net6.0\ToDoApp.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\todo-app\test\obj\Debug\net6.0\ToDoApp.Tests.AssemblyInfoInputs.cache
+C:\Users\HP\todo-app\test\obj\Debug\net6.0\ToDoApp.Tests.AssemblyInfo.cs
+C:\Users\HP\todo-app\test\obj\Debug\net6.0\ToDoApp.Tests.csproj.CoreCompileInputs.cache
